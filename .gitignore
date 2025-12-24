@@ -1,0 +1,18 @@
+# Build directory
+build/
+
+# Compiled objects
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
