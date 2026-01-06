@@ -16,3 +16,12 @@ build/
 .vscode/
 .idea/
 *.swp
+
+# reference solver
+reference_solver/
+
+prompting_context.md
+
+todo.md
+
+compile_commands.json
